@@ -1,2 +1,2 @@
 # 3MIA
-Projetos do 3MIA de INW
+Projetos do 3MIA tecnicos
